@@ -1,0 +1,7 @@
+*.bin
+*.err
+*.log
+*.pyc
+*.rom
+*.swp
+*.sys
