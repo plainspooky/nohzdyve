@@ -5,7 +5,7 @@ Copyright 2019, Giovanni Nunes
 Licensed under [GPL 3.0](LICENSE).
 
 # Introduction
-This is a MSX version for the speccy game [Nohzdyve](https://tuckersoft.net/ealing20541/nohzdyve/) written by Matt Wescott and released as an _Easter Egg_ for **Bandersnatch** episode of [Black Mirror]((https://www.netflix.com/br-en/title/70264888) that I've created for scratch to answer my own question: _"Can I write games (for MSX) using something like MVC architecture?"_
+This is a MSX version for the speccy game [Nohzdyve](https://tuckersoft.net/ealing20541/nohzdyve/) written by Matt Wescott and released as an _Easter Egg_ for **Bandersnatch** episode of [Black Mirror](https://www.netflix.com/br-en/title/70264888) that I've created for scratch to answer my own question: _"Can I write games (for MSX) using something like MVC architecture?"_
 
 Well, this game is the answer... :smiley:
 
