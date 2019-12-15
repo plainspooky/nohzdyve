@@ -9,7 +9,7 @@ RM=rm -f
 
 .PHONY: default rom test run clean superclean
 
-MODULES=display controller engine tests
+MODULES=engine controller display
 
 
 define make_variables
